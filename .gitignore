@@ -1,0 +1,7 @@
+.settings
+.cproject
+*.o
+*.a
+.project
+*.map
+*.elf
